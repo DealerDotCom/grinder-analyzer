@@ -1,0 +1,19 @@
+To run the automated tests you need the following:
+
+ * A Bash environment.  Grinder Analyzer can be run on Windows, but the
+   testing needs to happen in Linux or possibly (untested) OS X.
+
+ * Java 5 and Java 6 need to be installed in /usr/local
+
+ * Jython 2.2.1 and 2.5 need to be installed in /usr/local
+
+ * Ant must be installed and on the path
+
+ * Current user must have write access to /usr/local
+
+ * the JAVA_HOME environment variable must point to /usr/local/java
+
+ * $JAVA_HOME/bin must be on the path.  There must be no other 'java'
+   executable on the path before the one at $JAVA_HOME/bin
+
+

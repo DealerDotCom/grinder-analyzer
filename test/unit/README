@@ -1,0 +1,16 @@
+To run unit tests:
+
+   * Be sure you are running as Jython (not Python) unit tests.
+  
+   * Running from within the IDE (Eclipse/Pydev) is probably the
+     easiest way to go.
+
+   * Compile and create the GrinderAnalyzer .jar file via ant
+     using the 'ant clean pkg' command.
+
+   * Add all jars in the lib directory to your Jython classpath.
+   
+   * if running pyunit from Eclipse, add the test/unit dir to the PYTHONPATH
+
+   * Make a symlink from ../../conf to ./conf
+

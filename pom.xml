@@ -1,0 +1,87 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>net.sf.grinder</groupId>
+	<artifactId>grinder-analyzer</artifactId>
+	<version>2.0.0.b19</version>
+	<packaging>jar</packaging>
+    <name>${project.artifactId}</name>
+	<description>Grinder Analyzer is a tool that parses grinder log data and generates client-side performance graphs.</description>
+	<url>http://track.sourceforge.net/</url>
+	
+	<scm>
+        <connection>scm:git:track.git.sourceforge.net:gitroot/track/GrinderAnalyzer.git</connection>
+        <url>scm:git:track.git.sourceforge.net:gitroot/track/GrinderAnalyzer.git</url>
+        <developerConnection>scm:git:track.git.sourceforge.net:gitroot/track/GrinderAnalyzer.git</developerConnection>
+    </scm>
+
+	<dependencies>
+		<dependency>
+            <groupId>commons-collections</groupId>
+            <artifactId>commons-collections</artifactId>
+            <version>3.2</version>
+        </dependency>
+		<dependency>
+            <groupId>commons-lang</groupId>
+            <artifactId>commons-lang</artifactId>
+            <version>2.3</version>
+        </dependency>
+		<dependency>
+            <groupId>org.htmlparser</groupId>
+            <artifactId>htmllexer</artifactId>
+            <version>2.1</version>
+        </dependency>
+		<dependency>
+			<groupId>org.htmlparser</groupId>
+			<artifactId>htmllexer</artifactId>
+			<version>2.1</version>
+			<exclusions>
+				<exclusion>
+					<groupId>com.sun</groupId>
+					<artifactId>tools</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+		<dependency>
+			<groupId>jfree</groupId>
+			<artifactId>jcommon</artifactId>
+			<version>1.0.12</version>
+		</dependency>
+		<dependency>
+			<groupId>jfree</groupId>
+			<artifactId>jfreechart</artifactId>
+			<version>1.0.13</version>
+		</dependency>
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.16</version>
+		</dependency>
+		<dependency>
+            <groupId>velocity</groupId>
+            <artifactId>velocity</artifactId>
+            <version>1.5</version>
+        </dependency>
+	</dependencies>
+	
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-jar-plugin</artifactId>
+                <version>2.3.2</version>
+            </plugin>
+            <plugin>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>2.3.2</version>
+                <configuration>
+                    <source>1.6</source>
+                    <target>1.6</target>
+                    <optimize>true</optimize>
+                    <showDeprecation>true</showDeprecation>
+                    <showWarnings>true</showWarnings>
+                </configuration>
+            </plugin>
+		</plugins>
+	</build>
+</project>

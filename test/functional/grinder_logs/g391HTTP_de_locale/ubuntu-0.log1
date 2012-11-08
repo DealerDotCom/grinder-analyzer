@@ -1,0 +1,499 @@
+2012-05-30 18:04:26,983 INFO  ubuntu-0 : The Grinder version 3.9.1
+2012-05-30 18:04:26,987 INFO  ubuntu-0 : Java(TM) SE Runtime Environment 1.6.0_20-b02: Java HotSpot(TM) 64-Bit Server VM (16.3-b01, mixed mode) on Linux amd64 3.0.0-16-generic
+2012-05-30 18:04:26,992 INFO  ubuntu-0 : time zone is PDT (-0700)
+2012-05-30 18:04:27,109 INFO  ubuntu-0 : worker process 0
+2012-05-30 18:04:27,291 INFO  ubuntu-0 : instrumentation agents: traditional Jython instrumenter; byte code transforming instrumenter for Java
+2012-05-30 18:04:29,303 INFO  ubuntu-0 : registered plug-in net.grinder.plugin.http.HTTPPlugin
+2012-05-30 18:04:29,323 INFO  ubuntu-0 : running "HTTPTest.py" using Jython 2.2.1
+2012-05-30 18:04:29,336 INFO  ubuntu-0 thread-0: starting, will run forever
+2012-05-30 18:04:29,336 INFO  ubuntu-0 : start time is 1338426269336 ms since Epoch
+2012-05-30 18:04:29,446 INFO  ubuntu-0 thread-0 [ run-0, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:29,478 INFO  ubuntu-0 thread-0 [ run-0, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:29,492 INFO  ubuntu-0 thread-0 [ run-0, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:29,499 INFO  ubuntu-0 thread-0 [ run-0, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:29,502 INFO  ubuntu-0 thread-0 [ run-0 ]: sleeping for 403 ms
+2012-05-30 18:04:29,913 INFO  ubuntu-0 thread-0 [ run-1, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:29,918 INFO  ubuntu-0 thread-0 [ run-1, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:29,932 INFO  ubuntu-0 thread-0 [ run-1, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:29,953 INFO  ubuntu-0 thread-0 [ run-1, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:29,954 INFO  ubuntu-0 thread-0 [ run-1 ]: sleeping for 402 ms
+2012-05-30 18:04:30,360 INFO  ubuntu-0 thread-0 [ run-2, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:30,364 INFO  ubuntu-0 thread-0 [ run-2, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:30,370 INFO  ubuntu-0 thread-0 [ run-2, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:30,376 INFO  ubuntu-0 thread-0 [ run-2, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:30,376 INFO  ubuntu-0 thread-0 [ run-2 ]: sleeping for 414 ms
+2012-05-30 18:04:30,795 INFO  ubuntu-0 thread-0 [ run-3, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:30,800 INFO  ubuntu-0 thread-0 [ run-3, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:30,806 INFO  ubuntu-0 thread-0 [ run-3, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:30,811 INFO  ubuntu-0 thread-0 [ run-3, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:30,811 INFO  ubuntu-0 thread-0 [ run-3 ]: sleeping for 408 ms
+2012-05-30 18:04:31,224 INFO  ubuntu-0 thread-0 [ run-4, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:31,229 INFO  ubuntu-0 thread-0 [ run-4, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:31,234 INFO  ubuntu-0 thread-0 [ run-4, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:31,238 INFO  ubuntu-0 thread-0 [ run-4, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:31,239 INFO  ubuntu-0 thread-0 [ run-4 ]: sleeping for 435 ms
+2012-05-30 18:04:31,679 INFO  ubuntu-0 thread-0 [ run-5, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:31,682 INFO  ubuntu-0 thread-0 [ run-5, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:31,686 INFO  ubuntu-0 thread-0 [ run-5, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:31,690 INFO  ubuntu-0 thread-0 [ run-5, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:31,691 INFO  ubuntu-0 thread-0 [ run-5 ]: sleeping for 390 ms
+2012-05-30 18:04:32,086 INFO  ubuntu-0 thread-0 [ run-6, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:32,090 INFO  ubuntu-0 thread-0 [ run-6, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:32,096 INFO  ubuntu-0 thread-0 [ run-6, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:32,101 INFO  ubuntu-0 thread-0 [ run-6, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:32,101 INFO  ubuntu-0 thread-0 [ run-6 ]: sleeping for 421 ms
+2012-05-30 18:04:32,527 INFO  ubuntu-0 thread-0 [ run-7, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:32,533 INFO  ubuntu-0 thread-0 [ run-7, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:32,540 INFO  ubuntu-0 thread-0 [ run-7, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:32,544 INFO  ubuntu-0 thread-0 [ run-7, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:32,545 INFO  ubuntu-0 thread-0 [ run-7 ]: sleeping for 370 ms
+2012-05-30 18:04:32,921 INFO  ubuntu-0 thread-0 [ run-8, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:32,925 INFO  ubuntu-0 thread-0 [ run-8, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:32,931 INFO  ubuntu-0 thread-0 [ run-8, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:32,935 INFO  ubuntu-0 thread-0 [ run-8, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:32,935 INFO  ubuntu-0 thread-0 [ run-8 ]: sleeping for 412 ms
+2012-05-30 18:04:33,353 INFO  ubuntu-0 thread-0 [ run-9, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:33,359 INFO  ubuntu-0 thread-0 [ run-9, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:33,364 INFO  ubuntu-0 thread-0 [ run-9, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:33,367 INFO  ubuntu-0 thread-0 [ run-9, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:33,368 INFO  ubuntu-0 thread-0 [ run-9 ]: sleeping for 406 ms
+2012-05-30 18:04:33,779 INFO  ubuntu-0 thread-0 [ run-10, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:33,784 INFO  ubuntu-0 thread-0 [ run-10, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:33,789 INFO  ubuntu-0 thread-0 [ run-10, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:33,794 INFO  ubuntu-0 thread-0 [ run-10, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:33,794 INFO  ubuntu-0 thread-0 [ run-10 ]: sleeping for 411 ms
+2012-05-30 18:04:34,211 INFO  ubuntu-0 thread-0 [ run-11, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:34,215 INFO  ubuntu-0 thread-0 [ run-11, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:34,220 INFO  ubuntu-0 thread-0 [ run-11, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:34,224 INFO  ubuntu-0 thread-0 [ run-11, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:34,225 INFO  ubuntu-0 thread-0 [ run-11 ]: sleeping for 398 ms
+2012-05-30 18:04:34,628 INFO  ubuntu-0 thread-0 [ run-12, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:34,632 INFO  ubuntu-0 thread-0 [ run-12, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:34,637 INFO  ubuntu-0 thread-0 [ run-12, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:34,641 INFO  ubuntu-0 thread-0 [ run-12, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:34,641 INFO  ubuntu-0 thread-0 [ run-12 ]: sleeping for 380 ms
+2012-05-30 18:04:35,027 INFO  ubuntu-0 thread-0 [ run-13, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:35,031 INFO  ubuntu-0 thread-0 [ run-13, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:35,037 INFO  ubuntu-0 thread-0 [ run-13, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:35,041 INFO  ubuntu-0 thread-0 [ run-13, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:35,041 INFO  ubuntu-0 thread-0 [ run-13 ]: sleeping for 394 ms
+2012-05-30 18:04:35,440 INFO  ubuntu-0 thread-0 [ run-14, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:35,444 INFO  ubuntu-0 thread-0 [ run-14, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:35,450 INFO  ubuntu-0 thread-0 [ run-14, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:35,454 INFO  ubuntu-0 thread-0 [ run-14, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:35,454 INFO  ubuntu-0 thread-0 [ run-14 ]: sleeping for 390 ms
+2012-05-30 18:04:35,849 INFO  ubuntu-0 thread-0 [ run-15, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:35,854 INFO  ubuntu-0 thread-0 [ run-15, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:35,859 INFO  ubuntu-0 thread-0 [ run-15, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:35,863 INFO  ubuntu-0 thread-0 [ run-15, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:35,864 INFO  ubuntu-0 thread-0 [ run-15 ]: sleeping for 437 ms
+2012-05-30 18:04:36,306 INFO  ubuntu-0 thread-0 [ run-16, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:36,309 INFO  ubuntu-0 thread-0 [ run-16, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:36,313 INFO  ubuntu-0 thread-0 [ run-16, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:36,318 INFO  ubuntu-0 thread-0 [ run-16, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:36,318 INFO  ubuntu-0 thread-0 [ run-16 ]: sleeping for 369 ms
+2012-05-30 18:04:36,693 INFO  ubuntu-0 thread-0 [ run-17, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:36,698 INFO  ubuntu-0 thread-0 [ run-17, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:36,905 INFO  ubuntu-0 thread-0 [ run-17, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:36,910 INFO  ubuntu-0 thread-0 [ run-17, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:36,910 INFO  ubuntu-0 thread-0 [ run-17 ]: sleeping for 407 ms
+2012-05-30 18:04:37,323 INFO  ubuntu-0 thread-0 [ run-18, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:37,328 INFO  ubuntu-0 thread-0 [ run-18, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:37,342 INFO  ubuntu-0 thread-0 [ run-18, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:37,347 INFO  ubuntu-0 thread-0 [ run-18, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:37,347 INFO  ubuntu-0 thread-0 [ run-18 ]: sleeping for 436 ms
+2012-05-30 18:04:37,788 INFO  ubuntu-0 thread-0 [ run-19, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:37,792 INFO  ubuntu-0 thread-0 [ run-19, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:37,795 INFO  ubuntu-0 thread-0 [ run-19, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:37,799 INFO  ubuntu-0 thread-0 [ run-19, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:37,799 INFO  ubuntu-0 thread-0 [ run-19 ]: sleeping for 405 ms
+2012-05-30 18:04:38,211 INFO  ubuntu-0 thread-0 [ run-20, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:38,216 INFO  ubuntu-0 thread-0 [ run-20, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:38,222 INFO  ubuntu-0 thread-0 [ run-20, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:38,230 INFO  ubuntu-0 thread-0 [ run-20, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:38,231 INFO  ubuntu-0 thread-0 [ run-20 ]: sleeping for 370 ms
+2012-05-30 18:04:38,605 INFO  ubuntu-0 thread-0 [ run-21, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:38,609 INFO  ubuntu-0 thread-0 [ run-21, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:38,612 INFO  ubuntu-0 thread-0 [ run-21, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:38,615 INFO  ubuntu-0 thread-0 [ run-21, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:38,616 INFO  ubuntu-0 thread-0 [ run-21 ]: sleeping for 418 ms
+2012-05-30 18:04:39,039 INFO  ubuntu-0 thread-0 [ run-22, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:39,043 INFO  ubuntu-0 thread-0 [ run-22, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:39,047 INFO  ubuntu-0 thread-0 [ run-22, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:39,050 INFO  ubuntu-0 thread-0 [ run-22, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:39,051 INFO  ubuntu-0 thread-0 [ run-22 ]: sleeping for 389 ms
+2012-05-30 18:04:39,445 INFO  ubuntu-0 thread-0 [ run-23, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:39,448 INFO  ubuntu-0 thread-0 [ run-23, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:39,453 INFO  ubuntu-0 thread-0 [ run-23, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:39,459 INFO  ubuntu-0 thread-0 [ run-23, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:39,459 INFO  ubuntu-0 thread-0 [ run-23 ]: sleeping for 394 ms
+2012-05-30 18:04:39,859 INFO  ubuntu-0 thread-0 [ run-24, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:39,863 INFO  ubuntu-0 thread-0 [ run-24, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:39,867 INFO  ubuntu-0 thread-0 [ run-24, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:39,870 INFO  ubuntu-0 thread-0 [ run-24, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:39,871 INFO  ubuntu-0 thread-0 [ run-24 ]: sleeping for 376 ms
+2012-05-30 18:04:40,252 INFO  ubuntu-0 thread-0 [ run-25, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:40,256 INFO  ubuntu-0 thread-0 [ run-25, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:40,259 INFO  ubuntu-0 thread-0 [ run-25, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:40,263 INFO  ubuntu-0 thread-0 [ run-25, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:40,263 INFO  ubuntu-0 thread-0 [ run-25 ]: sleeping for 412 ms
+2012-05-30 18:04:40,681 INFO  ubuntu-0 thread-0 [ run-26, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:40,685 INFO  ubuntu-0 thread-0 [ run-26, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:40,689 INFO  ubuntu-0 thread-0 [ run-26, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:40,693 INFO  ubuntu-0 thread-0 [ run-26, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:40,693 INFO  ubuntu-0 thread-0 [ run-26 ]: sleeping for 409 ms
+2012-05-30 18:04:41,106 INFO  ubuntu-0 thread-0 [ run-27, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:41,109 INFO  ubuntu-0 thread-0 [ run-27, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:41,113 INFO  ubuntu-0 thread-0 [ run-27, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:41,117 INFO  ubuntu-0 thread-0 [ run-27, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:41,117 INFO  ubuntu-0 thread-0 [ run-27 ]: sleeping for 432 ms
+2012-05-30 18:04:41,553 INFO  ubuntu-0 thread-0 [ run-28, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:41,556 INFO  ubuntu-0 thread-0 [ run-28, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:41,560 INFO  ubuntu-0 thread-0 [ run-28, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:41,563 INFO  ubuntu-0 thread-0 [ run-28, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:41,564 INFO  ubuntu-0 thread-0 [ run-28 ]: sleeping for 397 ms
+2012-05-30 18:04:41,968 INFO  ubuntu-0 thread-0 [ run-29, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:41,973 INFO  ubuntu-0 thread-0 [ run-29, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:41,977 INFO  ubuntu-0 thread-0 [ run-29, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:41,984 INFO  ubuntu-0 thread-0 [ run-29, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:41,985 INFO  ubuntu-0 thread-0 [ run-29 ]: sleeping for 378 ms
+2012-05-30 18:04:42,367 INFO  ubuntu-0 thread-0 [ run-30, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:42,371 INFO  ubuntu-0 thread-0 [ run-30, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:42,375 INFO  ubuntu-0 thread-0 [ run-30, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:42,379 INFO  ubuntu-0 thread-0 [ run-30, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:42,379 INFO  ubuntu-0 thread-0 [ run-30 ]: sleeping for 429 ms
+2012-05-30 18:04:42,813 INFO  ubuntu-0 thread-0 [ run-31, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:42,827 INFO  ubuntu-0 thread-0 [ run-31, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:42,831 INFO  ubuntu-0 thread-0 [ run-31, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:42,835 INFO  ubuntu-0 thread-0 [ run-31, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:42,835 INFO  ubuntu-0 thread-0 [ run-31 ]: sleeping for 382 ms
+2012-05-30 18:04:43,221 INFO  ubuntu-0 thread-0 [ run-32, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:43,225 INFO  ubuntu-0 thread-0 [ run-32, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:43,229 INFO  ubuntu-0 thread-0 [ run-32, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:43,232 INFO  ubuntu-0 thread-0 [ run-32, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:43,232 INFO  ubuntu-0 thread-0 [ run-32 ]: sleeping for 426 ms
+2012-05-30 18:04:43,664 INFO  ubuntu-0 thread-0 [ run-33, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:43,667 INFO  ubuntu-0 thread-0 [ run-33, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:43,671 INFO  ubuntu-0 thread-0 [ run-33, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:43,674 INFO  ubuntu-0 thread-0 [ run-33, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:43,675 INFO  ubuntu-0 thread-0 [ run-33 ]: sleeping for 424 ms
+2012-05-30 18:04:44,104 INFO  ubuntu-0 thread-0 [ run-34, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:44,108 INFO  ubuntu-0 thread-0 [ run-34, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:44,111 INFO  ubuntu-0 thread-0 [ run-34, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:44,115 INFO  ubuntu-0 thread-0 [ run-34, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:44,115 INFO  ubuntu-0 thread-0 [ run-34 ]: sleeping for 416 ms
+2012-05-30 18:04:44,536 INFO  ubuntu-0 thread-0 [ run-35, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:44,541 INFO  ubuntu-0 thread-0 [ run-35, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:44,544 INFO  ubuntu-0 thread-0 [ run-35, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:44,548 INFO  ubuntu-0 thread-0 [ run-35, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:44,548 INFO  ubuntu-0 thread-0 [ run-35 ]: sleeping for 393 ms
+2012-05-30 18:04:44,946 INFO  ubuntu-0 thread-0 [ run-36, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:44,949 INFO  ubuntu-0 thread-0 [ run-36, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:44,953 INFO  ubuntu-0 thread-0 [ run-36, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:44,956 INFO  ubuntu-0 thread-0 [ run-36, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:44,956 INFO  ubuntu-0 thread-0 [ run-36 ]: sleeping for 401 ms
+2012-05-30 18:04:45,362 INFO  ubuntu-0 thread-0 [ run-37, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:45,365 INFO  ubuntu-0 thread-0 [ run-37, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:45,369 INFO  ubuntu-0 thread-0 [ run-37, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:45,373 INFO  ubuntu-0 thread-0 [ run-37, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:45,373 INFO  ubuntu-0 thread-0 [ run-37 ]: sleeping for 443 ms
+2012-05-30 18:04:45,821 INFO  ubuntu-0 thread-0 [ run-38, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:45,825 INFO  ubuntu-0 thread-0 [ run-38, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:45,829 INFO  ubuntu-0 thread-0 [ run-38, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:45,833 INFO  ubuntu-0 thread-0 [ run-38, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:45,833 INFO  ubuntu-0 thread-0 [ run-38 ]: sleeping for 431 ms
+2012-05-30 18:04:46,269 INFO  ubuntu-0 thread-0 [ run-39, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:46,272 INFO  ubuntu-0 thread-0 [ run-39, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:46,276 INFO  ubuntu-0 thread-0 [ run-39, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:46,280 INFO  ubuntu-0 thread-0 [ run-39, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:46,280 INFO  ubuntu-0 thread-0 [ run-39 ]: sleeping for 400 ms
+2012-05-30 18:04:46,685 INFO  ubuntu-0 thread-0 [ run-40, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:46,688 INFO  ubuntu-0 thread-0 [ run-40, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:46,692 INFO  ubuntu-0 thread-0 [ run-40, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:46,696 INFO  ubuntu-0 thread-0 [ run-40, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:46,696 INFO  ubuntu-0 thread-0 [ run-40 ]: sleeping for 358 ms
+2012-05-30 18:04:47,060 INFO  ubuntu-0 thread-0 [ run-41, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:47,065 INFO  ubuntu-0 thread-0 [ run-41, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:47,069 INFO  ubuntu-0 thread-0 [ run-41, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:47,101 INFO  ubuntu-0 thread-0 [ run-41, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:47,101 INFO  ubuntu-0 thread-0 [ run-41 ]: sleeping for 392 ms
+2012-05-30 18:04:47,499 INFO  ubuntu-0 thread-0 [ run-42, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:47,502 INFO  ubuntu-0 thread-0 [ run-42, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:47,506 INFO  ubuntu-0 thread-0 [ run-42, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:47,510 INFO  ubuntu-0 thread-0 [ run-42, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:47,510 INFO  ubuntu-0 thread-0 [ run-42 ]: sleeping for 388 ms
+2012-05-30 18:04:47,907 INFO  ubuntu-0 thread-0 [ run-43, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:47,911 INFO  ubuntu-0 thread-0 [ run-43, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:47,915 INFO  ubuntu-0 thread-0 [ run-43, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:47,918 INFO  ubuntu-0 thread-0 [ run-43, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:47,918 INFO  ubuntu-0 thread-0 [ run-43 ]: sleeping for 400 ms
+2012-05-30 18:04:48,323 INFO  ubuntu-0 thread-0 [ run-44, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:48,326 INFO  ubuntu-0 thread-0 [ run-44, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:48,330 INFO  ubuntu-0 thread-0 [ run-44, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:48,333 INFO  ubuntu-0 thread-0 [ run-44, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:48,333 INFO  ubuntu-0 thread-0 [ run-44 ]: sleeping for 405 ms
+2012-05-30 18:04:48,743 INFO  ubuntu-0 thread-0 [ run-45, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:48,747 INFO  ubuntu-0 thread-0 [ run-45, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:48,752 INFO  ubuntu-0 thread-0 [ run-45, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:48,756 INFO  ubuntu-0 thread-0 [ run-45, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:48,756 INFO  ubuntu-0 thread-0 [ run-45 ]: sleeping for 385 ms
+2012-05-30 18:04:49,146 INFO  ubuntu-0 thread-0 [ run-46, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:49,150 INFO  ubuntu-0 thread-0 [ run-46, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:49,153 INFO  ubuntu-0 thread-0 [ run-46, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:49,157 INFO  ubuntu-0 thread-0 [ run-46, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:49,158 INFO  ubuntu-0 thread-0 [ run-46 ]: sleeping for 359 ms
+2012-05-30 18:04:49,522 INFO  ubuntu-0 thread-0 [ run-47, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:49,526 INFO  ubuntu-0 thread-0 [ run-47, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:49,529 INFO  ubuntu-0 thread-0 [ run-47, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:49,533 INFO  ubuntu-0 thread-0 [ run-47, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:49,533 INFO  ubuntu-0 thread-0 [ run-47 ]: sleeping for 423 ms
+2012-05-30 18:04:49,960 INFO  ubuntu-0 thread-0 [ run-48, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:49,963 INFO  ubuntu-0 thread-0 [ run-48, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:49,967 INFO  ubuntu-0 thread-0 [ run-48, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:49,970 INFO  ubuntu-0 thread-0 [ run-48, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:49,970 INFO  ubuntu-0 thread-0 [ run-48 ]: sleeping for 370 ms
+2012-05-30 18:04:50,346 INFO  ubuntu-0 thread-0 [ run-49, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:50,349 INFO  ubuntu-0 thread-0 [ run-49, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:50,352 INFO  ubuntu-0 thread-0 [ run-49, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:50,356 INFO  ubuntu-0 thread-0 [ run-49, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:50,356 INFO  ubuntu-0 thread-0 [ run-49 ]: sleeping for 397 ms
+2012-05-30 18:04:50,759 INFO  ubuntu-0 thread-0 [ run-50, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:50,763 INFO  ubuntu-0 thread-0 [ run-50, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:50,767 INFO  ubuntu-0 thread-0 [ run-50, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:50,771 INFO  ubuntu-0 thread-0 [ run-50, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:50,771 INFO  ubuntu-0 thread-0 [ run-50 ]: sleeping for 373 ms
+2012-05-30 18:04:51,149 INFO  ubuntu-0 thread-0 [ run-51, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:51,152 INFO  ubuntu-0 thread-0 [ run-51, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:51,156 INFO  ubuntu-0 thread-0 [ run-51, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:51,159 INFO  ubuntu-0 thread-0 [ run-51, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:51,160 INFO  ubuntu-0 thread-0 [ run-51 ]: sleeping for 401 ms
+2012-05-30 18:04:51,565 INFO  ubuntu-0 thread-0 [ run-52, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:51,569 INFO  ubuntu-0 thread-0 [ run-52, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:51,575 INFO  ubuntu-0 thread-0 [ run-52, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:51,579 INFO  ubuntu-0 thread-0 [ run-52, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:51,579 INFO  ubuntu-0 thread-0 [ run-52 ]: sleeping for 403 ms
+2012-05-30 18:04:51,987 INFO  ubuntu-0 thread-0 [ run-53, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:51,990 INFO  ubuntu-0 thread-0 [ run-53, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:51,996 INFO  ubuntu-0 thread-0 [ run-53, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:51,999 INFO  ubuntu-0 thread-0 [ run-53, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:52,000 INFO  ubuntu-0 thread-0 [ run-53 ]: sleeping for 380 ms
+2012-05-30 18:04:52,385 INFO  ubuntu-0 thread-0 [ run-54, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:52,388 INFO  ubuntu-0 thread-0 [ run-54, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:52,393 INFO  ubuntu-0 thread-0 [ run-54, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:52,397 INFO  ubuntu-0 thread-0 [ run-54, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:52,397 INFO  ubuntu-0 thread-0 [ run-54 ]: sleeping for 391 ms
+2012-05-30 18:04:52,794 INFO  ubuntu-0 thread-0 [ run-55, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:52,797 INFO  ubuntu-0 thread-0 [ run-55, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:52,800 INFO  ubuntu-0 thread-0 [ run-55, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:52,804 INFO  ubuntu-0 thread-0 [ run-55, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:52,804 INFO  ubuntu-0 thread-0 [ run-55 ]: sleeping for 392 ms
+2012-05-30 18:04:53,200 INFO  ubuntu-0 thread-0 [ run-56, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:53,203 INFO  ubuntu-0 thread-0 [ run-56, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:53,206 INFO  ubuntu-0 thread-0 [ run-56, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:53,210 INFO  ubuntu-0 thread-0 [ run-56, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:53,210 INFO  ubuntu-0 thread-0 [ run-56 ]: sleeping for 370 ms
+2012-05-30 18:04:53,585 INFO  ubuntu-0 thread-0 [ run-57, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:53,588 INFO  ubuntu-0 thread-0 [ run-57, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:53,592 INFO  ubuntu-0 thread-0 [ run-57, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:53,596 INFO  ubuntu-0 thread-0 [ run-57, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:53,596 INFO  ubuntu-0 thread-0 [ run-57 ]: sleeping for 447 ms
+2012-05-30 18:04:54,047 INFO  ubuntu-0 thread-0 [ run-58, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:54,052 INFO  ubuntu-0 thread-0 [ run-58, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:54,055 INFO  ubuntu-0 thread-0 [ run-58, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:54,058 INFO  ubuntu-0 thread-0 [ run-58, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:54,059 INFO  ubuntu-0 thread-0 [ run-58 ]: sleeping for 462 ms
+2012-05-30 18:04:54,526 INFO  ubuntu-0 thread-0 [ run-59, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:54,529 INFO  ubuntu-0 thread-0 [ run-59, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:54,533 INFO  ubuntu-0 thread-0 [ run-59, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:54,537 INFO  ubuntu-0 thread-0 [ run-59, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:54,537 INFO  ubuntu-0 thread-0 [ run-59 ]: sleeping for 402 ms
+2012-05-30 18:04:54,944 INFO  ubuntu-0 thread-0 [ run-60, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:54,948 INFO  ubuntu-0 thread-0 [ run-60, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:54,951 INFO  ubuntu-0 thread-0 [ run-60, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:54,955 INFO  ubuntu-0 thread-0 [ run-60, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:54,955 INFO  ubuntu-0 thread-0 [ run-60 ]: sleeping for 367 ms
+2012-05-30 18:04:55,326 INFO  ubuntu-0 thread-0 [ run-61, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:55,330 INFO  ubuntu-0 thread-0 [ run-61, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:55,334 INFO  ubuntu-0 thread-0 [ run-61, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:55,338 INFO  ubuntu-0 thread-0 [ run-61, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:55,338 INFO  ubuntu-0 thread-0 [ run-61 ]: sleeping for 420 ms
+2012-05-30 18:04:55,764 INFO  ubuntu-0 thread-0 [ run-62, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:55,767 INFO  ubuntu-0 thread-0 [ run-62, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:55,771 INFO  ubuntu-0 thread-0 [ run-62, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:55,775 INFO  ubuntu-0 thread-0 [ run-62, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:55,776 INFO  ubuntu-0 thread-0 [ run-62 ]: sleeping for 367 ms
+2012-05-30 18:04:56,148 INFO  ubuntu-0 thread-0 [ run-63, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:56,152 INFO  ubuntu-0 thread-0 [ run-63, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:56,155 INFO  ubuntu-0 thread-0 [ run-63, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:56,160 INFO  ubuntu-0 thread-0 [ run-63, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:56,160 INFO  ubuntu-0 thread-0 [ run-63 ]: sleeping for 358 ms
+2012-05-30 18:04:56,524 INFO  ubuntu-0 thread-0 [ run-64, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:56,527 INFO  ubuntu-0 thread-0 [ run-64, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:56,531 INFO  ubuntu-0 thread-0 [ run-64, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:56,534 INFO  ubuntu-0 thread-0 [ run-64, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:56,534 INFO  ubuntu-0 thread-0 [ run-64 ]: sleeping for 419 ms
+2012-05-30 18:04:56,959 INFO  ubuntu-0 thread-0 [ run-65, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:56,963 INFO  ubuntu-0 thread-0 [ run-65, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:56,967 INFO  ubuntu-0 thread-0 [ run-65, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:56,972 INFO  ubuntu-0 thread-0 [ run-65, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:56,972 INFO  ubuntu-0 thread-0 [ run-65 ]: sleeping for 421 ms
+2012-05-30 18:04:57,398 INFO  ubuntu-0 thread-0 [ run-66, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:57,407 INFO  ubuntu-0 thread-0 [ run-66, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:57,411 INFO  ubuntu-0 thread-0 [ run-66, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:57,414 INFO  ubuntu-0 thread-0 [ run-66, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:57,415 INFO  ubuntu-0 thread-0 [ run-66 ]: sleeping for 441 ms
+2012-05-30 18:04:57,862 INFO  ubuntu-0 thread-0 [ run-67, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:57,866 INFO  ubuntu-0 thread-0 [ run-67, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:57,870 INFO  ubuntu-0 thread-0 [ run-67, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:57,874 INFO  ubuntu-0 thread-0 [ run-67, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:57,874 INFO  ubuntu-0 thread-0 [ run-67 ]: sleeping for 429 ms
+2012-05-30 18:04:58,308 INFO  ubuntu-0 thread-0 [ run-68, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:58,312 INFO  ubuntu-0 thread-0 [ run-68, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:58,315 INFO  ubuntu-0 thread-0 [ run-68, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:58,319 INFO  ubuntu-0 thread-0 [ run-68, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:58,319 INFO  ubuntu-0 thread-0 [ run-68 ]: sleeping for 424 ms
+2012-05-30 18:04:58,748 INFO  ubuntu-0 thread-0 [ run-69, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:58,756 INFO  ubuntu-0 thread-0 [ run-69, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:58,762 INFO  ubuntu-0 thread-0 [ run-69, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:58,765 INFO  ubuntu-0 thread-0 [ run-69, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:58,765 INFO  ubuntu-0 thread-0 [ run-69 ]: sleeping for 401 ms
+2012-05-30 18:04:59,177 INFO  ubuntu-0 thread-0 [ run-70, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:59,182 INFO  ubuntu-0 thread-0 [ run-70, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:59,185 INFO  ubuntu-0 thread-0 [ run-70, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:59,189 INFO  ubuntu-0 thread-0 [ run-70, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:59,189 INFO  ubuntu-0 thread-0 [ run-70 ]: sleeping for 401 ms
+2012-05-30 18:04:59,595 INFO  ubuntu-0 thread-0 [ run-71, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:59,599 INFO  ubuntu-0 thread-0 [ run-71, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:59,603 INFO  ubuntu-0 thread-0 [ run-71, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:59,606 INFO  ubuntu-0 thread-0 [ run-71, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:59,607 INFO  ubuntu-0 thread-0 [ run-71 ]: sleeping for 351 ms
+2012-05-30 18:04:59,962 INFO  ubuntu-0 thread-0 [ run-72, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:59,965 INFO  ubuntu-0 thread-0 [ run-72, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:59,969 INFO  ubuntu-0 thread-0 [ run-72, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:59,973 INFO  ubuntu-0 thread-0 [ run-72, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:04:59,973 INFO  ubuntu-0 thread-0 [ run-72 ]: sleeping for 396 ms
+2012-05-30 18:05:00,373 INFO  ubuntu-0 thread-0 [ run-73, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:00,376 INFO  ubuntu-0 thread-0 [ run-73, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:00,380 INFO  ubuntu-0 thread-0 [ run-73, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:00,383 INFO  ubuntu-0 thread-0 [ run-73, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:00,383 INFO  ubuntu-0 thread-0 [ run-73 ]: sleeping for 384 ms
+2012-05-30 18:05:00,772 INFO  ubuntu-0 thread-0 [ run-74, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:00,776 INFO  ubuntu-0 thread-0 [ run-74, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:00,779 INFO  ubuntu-0 thread-0 [ run-74, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:00,788 INFO  ubuntu-0 thread-0 [ run-74, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:00,789 INFO  ubuntu-0 thread-0 [ run-74 ]: sleeping for 406 ms
+2012-05-30 18:05:01,201 INFO  ubuntu-0 thread-0 [ run-75, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:01,205 INFO  ubuntu-0 thread-0 [ run-75, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:01,209 INFO  ubuntu-0 thread-0 [ run-75, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:01,213 INFO  ubuntu-0 thread-0 [ run-75, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:01,214 INFO  ubuntu-0 thread-0 [ run-75 ]: sleeping for 427 ms
+2012-05-30 18:05:01,645 INFO  ubuntu-0 thread-0 [ run-76, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:01,649 INFO  ubuntu-0 thread-0 [ run-76, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:01,653 INFO  ubuntu-0 thread-0 [ run-76, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:01,657 INFO  ubuntu-0 thread-0 [ run-76, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:01,657 INFO  ubuntu-0 thread-0 [ run-76 ]: sleeping for 394 ms
+2012-05-30 18:05:02,056 INFO  ubuntu-0 thread-0 [ run-77, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:02,060 INFO  ubuntu-0 thread-0 [ run-77, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:02,064 INFO  ubuntu-0 thread-0 [ run-77, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:02,067 INFO  ubuntu-0 thread-0 [ run-77, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:02,068 INFO  ubuntu-0 thread-0 [ run-77 ]: sleeping for 397 ms
+2012-05-30 18:05:02,470 INFO  ubuntu-0 thread-0 [ run-78, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:02,473 INFO  ubuntu-0 thread-0 [ run-78, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:02,477 INFO  ubuntu-0 thread-0 [ run-78, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:02,480 INFO  ubuntu-0 thread-0 [ run-78, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:02,480 INFO  ubuntu-0 thread-0 [ run-78 ]: sleeping for 407 ms
+2012-05-30 18:05:02,892 INFO  ubuntu-0 thread-0 [ run-79, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:02,896 INFO  ubuntu-0 thread-0 [ run-79, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:02,899 INFO  ubuntu-0 thread-0 [ run-79, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:02,903 INFO  ubuntu-0 thread-0 [ run-79, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:02,903 INFO  ubuntu-0 thread-0 [ run-79 ]: sleeping for 356 ms
+2012-05-30 18:05:03,263 INFO  ubuntu-0 thread-0 [ run-80, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:03,267 INFO  ubuntu-0 thread-0 [ run-80, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:03,270 INFO  ubuntu-0 thread-0 [ run-80, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:03,274 INFO  ubuntu-0 thread-0 [ run-80, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:03,274 INFO  ubuntu-0 thread-0 [ run-80 ]: sleeping for 364 ms
+2012-05-30 18:05:03,643 INFO  ubuntu-0 thread-0 [ run-81, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:03,647 INFO  ubuntu-0 thread-0 [ run-81, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:03,650 INFO  ubuntu-0 thread-0 [ run-81, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:03,654 INFO  ubuntu-0 thread-0 [ run-81, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:03,654 INFO  ubuntu-0 thread-0 [ run-81 ]: sleeping for 394 ms
+2012-05-30 18:05:04,053 INFO  ubuntu-0 thread-0 [ run-82, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:04,057 INFO  ubuntu-0 thread-0 [ run-82, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:04,061 INFO  ubuntu-0 thread-0 [ run-82, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:04,064 INFO  ubuntu-0 thread-0 [ run-82, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:04,064 INFO  ubuntu-0 thread-0 [ run-82 ]: sleeping for 401 ms
+2012-05-30 18:05:04,471 INFO  ubuntu-0 thread-0 [ run-83, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:04,475 INFO  ubuntu-0 thread-0 [ run-83, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:04,479 INFO  ubuntu-0 thread-0 [ run-83, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:04,483 INFO  ubuntu-0 thread-0 [ run-83, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:04,483 INFO  ubuntu-0 thread-0 [ run-83 ]: sleeping for 419 ms
+2012-05-30 18:05:04,907 INFO  ubuntu-0 thread-0 [ run-84, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:04,911 INFO  ubuntu-0 thread-0 [ run-84, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:04,914 INFO  ubuntu-0 thread-0 [ run-84, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:04,918 INFO  ubuntu-0 thread-0 [ run-84, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:04,919 INFO  ubuntu-0 thread-0 [ run-84 ]: sleeping for 405 ms
+2012-05-30 18:05:05,328 INFO  ubuntu-0 thread-0 [ run-85, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:05,332 INFO  ubuntu-0 thread-0 [ run-85, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:05,335 INFO  ubuntu-0 thread-0 [ run-85, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:05,339 INFO  ubuntu-0 thread-0 [ run-85, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:05,339 INFO  ubuntu-0 thread-0 [ run-85 ]: sleeping for 402 ms
+2012-05-30 18:05:05,746 INFO  ubuntu-0 thread-0 [ run-86, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:05,750 INFO  ubuntu-0 thread-0 [ run-86, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:05,754 INFO  ubuntu-0 thread-0 [ run-86, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:05,759 INFO  ubuntu-0 thread-0 [ run-86, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:05,759 INFO  ubuntu-0 thread-0 [ run-86 ]: sleeping for 389 ms
+2012-05-30 18:05:06,153 INFO  ubuntu-0 thread-0 [ run-87, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:06,157 INFO  ubuntu-0 thread-0 [ run-87, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:06,162 INFO  ubuntu-0 thread-0 [ run-87, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:06,166 INFO  ubuntu-0 thread-0 [ run-87, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:06,166 INFO  ubuntu-0 thread-0 [ run-87 ]: sleeping for 415 ms
+2012-05-30 18:05:06,585 INFO  ubuntu-0 thread-0 [ run-88, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:06,589 INFO  ubuntu-0 thread-0 [ run-88, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:06,593 INFO  ubuntu-0 thread-0 [ run-88, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:06,596 INFO  ubuntu-0 thread-0 [ run-88, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:06,596 INFO  ubuntu-0 thread-0 [ run-88 ]: sleeping for 415 ms
+2012-05-30 18:05:07,016 INFO  ubuntu-0 thread-0 [ run-89, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:07,020 INFO  ubuntu-0 thread-0 [ run-89, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:07,024 INFO  ubuntu-0 thread-0 [ run-89, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:07,027 INFO  ubuntu-0 thread-0 [ run-89, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:07,027 INFO  ubuntu-0 thread-0 [ run-89 ]: sleeping for 370 ms
+2012-05-30 18:05:07,403 INFO  ubuntu-0 thread-0 [ run-90, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:07,407 INFO  ubuntu-0 thread-0 [ run-90, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:07,411 INFO  ubuntu-0 thread-0 [ run-90, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:07,415 INFO  ubuntu-0 thread-0 [ run-90, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:07,415 INFO  ubuntu-0 thread-0 [ run-90 ]: sleeping for 371 ms
+2012-05-30 18:05:07,793 INFO  ubuntu-0 thread-0 [ run-91, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:07,798 INFO  ubuntu-0 thread-0 [ run-91, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:07,802 INFO  ubuntu-0 thread-0 [ run-91, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:07,806 INFO  ubuntu-0 thread-0 [ run-91, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:07,806 INFO  ubuntu-0 thread-0 [ run-91 ]: sleeping for 419 ms
+2012-05-30 18:05:08,230 INFO  ubuntu-0 thread-0 [ run-92, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:08,234 INFO  ubuntu-0 thread-0 [ run-92, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:08,238 INFO  ubuntu-0 thread-0 [ run-92, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:08,243 INFO  ubuntu-0 thread-0 [ run-92, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:08,243 INFO  ubuntu-0 thread-0 [ run-92 ]: sleeping for 412 ms
+2012-05-30 18:05:08,661 INFO  ubuntu-0 thread-0 [ run-93, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:08,664 INFO  ubuntu-0 thread-0 [ run-93, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:08,668 INFO  ubuntu-0 thread-0 [ run-93, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:08,671 INFO  ubuntu-0 thread-0 [ run-93, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:08,672 INFO  ubuntu-0 thread-0 [ run-93 ]: sleeping for 434 ms
+2012-05-30 18:05:09,111 INFO  ubuntu-0 thread-0 [ run-94, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:09,115 INFO  ubuntu-0 thread-0 [ run-94, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:09,120 INFO  ubuntu-0 thread-0 [ run-94, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:09,125 INFO  ubuntu-0 thread-0 [ run-94, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:09,126 INFO  ubuntu-0 thread-0 [ run-94 ]: sleeping for 417 ms
+2012-05-30 18:05:09,547 INFO  ubuntu-0 thread-0 [ run-95, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:09,551 INFO  ubuntu-0 thread-0 [ run-95, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:09,555 INFO  ubuntu-0 thread-0 [ run-95, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:09,561 INFO  ubuntu-0 thread-0 [ run-95, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:09,561 INFO  ubuntu-0 thread-0 [ run-95 ]: sleeping for 392 ms
+2012-05-30 18:05:09,958 INFO  ubuntu-0 thread-0 [ run-96, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:09,962 INFO  ubuntu-0 thread-0 [ run-96, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:09,966 INFO  ubuntu-0 thread-0 [ run-96, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:09,971 INFO  ubuntu-0 thread-0 [ run-96, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:09,971 INFO  ubuntu-0 thread-0 [ run-96 ]: sleeping for 371 ms
+2012-05-30 18:05:10,347 INFO  ubuntu-0 thread-0 [ run-97, test-1 ]: http://qa-perftest001:8080/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:10,351 INFO  ubuntu-0 thread-0 [ run-97, test-2 ]: http://qa-perftest001:8080/RELEASE-NOTES.txt -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:10,356 INFO  ubuntu-0 thread-0 [ run-97, test-3 ]: http://qa-perftest001:8080/docs/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:10,360 INFO  ubuntu-0 thread-0 [ run-97, test-4 ]: http://qa-perftest001:8080/examples/servlets/ -> 400 Bad Request, 0 bytes
+2012-05-30 18:05:10,360 INFO  ubuntu-0 thread-0 [ run-97 ]: sleeping for 374 ms
