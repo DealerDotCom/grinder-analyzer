@@ -164,7 +164,10 @@ class ResponseTimeGroupHandler:
             self._responseTimeGroups[ALL_TRANSACTIONS_VALUE] = {}
             self._responseTimeGroups[ALL_TRANSACTIONS_VALUE][key] = 1
         else:
-            self._responseTimeGroups[ALL_TRANSACTIONS_VALUE][key] += 1
+            if self._responseTimeGroups.get(ALL_TRANSACTIONS_VALUE).get(key) is None:
+                self._responseTimeGroups[ALL_TRANSACTIONS_VALUE][key] = 1
+            else :
+                self._responseTimeGroups[ALL_TRANSACTIONS_VALUE][key] += 1
 
     def getTxPercent(self, txName, maxTimeSec):
         txs = self._responseTimeGroups[txName][maxTimeSec]
