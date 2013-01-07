@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.sf.grinder</groupId>
 	<artifactId>grinder-analyzer</artifactId>
-	<version>2.0.0.b19</version>
+	<version>2.0.0.b19.1</version>
 	<packaging>jar</packaging>
     <name>${project.artifactId}</name>
 	<description>Grinder Analyzer is a tool that parses grinder log data and generates client-side performance graphs.</description>
